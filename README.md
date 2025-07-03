@@ -74,6 +74,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
     └── store.ts          // In-memory message store
 ```
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ---
 
 # Next.js ポーリングチャットアプリケーション
@@ -149,3 +153,7 @@ npm run dev
 │   └── Providers.tsx     // TanStack Query (React Query) のプロバイダー設定
 └── lib
     └── store.ts          // インメモリのメッセージストア
+
+## ライセンス
+
+このプロジェクトはMITライセンスの下で公開されています。詳細は[LICENSE](LICENSE)ファイルをご覧ください。
